@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Vathare</h1>
+<h1 align="center">Hi 👋, I'm Harshvardhan Vathare</h1>
 <h3 align="center">Java Backend Developer | BCA Graduate | Spring Boot Enthusiast</h3>
 
 ---
@@ -7,8 +7,7 @@
 - 🎓 BCA Graduate from DKASC College, Ichalkaranji  
 - 💻 Java Backend Developer (Spring Boot)  
 - 🔐 Skilled in JWT Authentication & OAuth2 (Google & GitHub Login)  
-- 🚀 Building real-world backend projects  
-- 🎯 Goal: Get a high-paying SDE role (₹10–20 LPA+)  
+- 🚀 Building real-world backend projects   
 
 ---
 
@@ -42,9 +41,8 @@
 ---
 
 ## 🤝 Connect with Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 🌐 Portfolio: your-portfolio-link  
+- 📧 Email: vathare.harsh45@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/harshvardhan-vathare-823a86276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app    
 
 ---
 
@@ -52,11 +50,6 @@
 - ✔ Building production-level backend systems  
 - ✔ Preparing for Java Developer interviews  
 - ✔ Improving DSA & problem-solving skills  
-
----
-
-## ⚡ Fun Fact
-I turn coffee ☕ into scalable backend systems 😄
 
 ---
 
