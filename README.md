@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Harshvardhan Vathare</h1>
+ <h1 align="center">Hi 👋, I'm Harshvardhan Vathare</h1>
 <h3 align="center">Java Backend Developer | BCA Graduate | Spring Boot Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 BCA Graduate from DKASC College, Ichalkaranji  
-- 💻 Java Backend Developer (Spring Boot)  
-- 🔐 Skilled in JWT Authentication & OAuth2 (Google & GitHub Login)  
-- 🚀 Building real-world backend projects   
+- 💻 Java Backend Developer specializing in Spring Boot  
+- 🔐 Experience in JWT Authentication & OAuth2 (Google & GitHub Login)  
+- 🏗️ Passionate about building scalable backend systems & real-world projects  
+- 🚀 Focused on backend engineering, APIs, and system design fundamentals  
 
 ---
 
@@ -16,12 +17,31 @@
 - **Backend:** Spring Boot, Spring Security, REST APIs  
 - **Authentication:** JWT, OAuth2  
 - **Database:** MySQL  
+- **Messaging / Queue:** RabbitMQ  
 - **Tools:** Git, GitHub, Postman, Maven  
-- **Learning:** Microservices, Docker  
+- **Learning:** Microservices, Docker, System Design  
 
 ---
 
 ## 🔥 Projects
+
+### 🏥 MediCore – Hospital Management System (Full Stack Backend System)
+A scalable hospital management backend system designed for real-world healthcare workflows like appointment booking, doctor management, patient records, authentication, and role-based access control.
+
+**🔗 Live Frontend:**   
+**🔗 Backend API:**   
+**📘 Swagger Documentation:**   
+
+**Key Highlights:**
+- Role-based system (Patient / Doctor / Admin)
+- JWT authentication with refresh token flow
+- Forgot password with email integration
+- RabbitMQ-based email processing
+- RESTful API design with clean architecture
+- Global exception handling & DTO-based structure
+
+---
+
 ### 🏋️ Fitness Monolith App
 - Spring Boot backend with JWT Authentication  
 - User & Workout Management APIs  
