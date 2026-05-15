@@ -28,9 +28,9 @@
 ### 🏥 MediCore – Hospital Management System (Full Stack Backend System)
 A scalable hospital management backend system designed for real-world healthcare workflows like appointment booking, doctor management, patient records, authentication, and role-based access control.
 
-**🔗 Live Frontend:**   
-**🔗 Backend API:**   
-**📘 Swagger Documentation:**   
+**🔗 Live Frontend: https://medicore-hms-six.vercel.app  
+**🔗 Backend API: https://medicore-p9x7.onrender.com 
+**📘 Swagger Documentation: https://medicore-p9x7.onrender.com/swagger-ui/index.html 
 
 **Key Highlights:**
 - Role-based system (Patient / Doctor / Admin)
